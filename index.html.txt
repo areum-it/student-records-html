@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>학생 기록 조회</title>
+</head>
+<body style="margin:0; padding:0; overflow:hidden;">
+    <iframe src="https://student-records-7hb7ubsg9-areum-its-projects.vercel.app"
+            width="100%" height="100%"
+            style="border:none; position:absolute; top:0; left:0; width:100vw; height:100vh;">
+    </iframe>
+</body>
+</html>
